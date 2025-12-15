@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "私のSymphony",
+  "base_artist": "Liella!",
+  "createdAt": "2025-12-15T15:38:04.870908Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私のSymphony - 2022 Version",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/01_私のSymphony_-_2022_Version_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私のSymphony",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/02_私のSymphony_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私のSymphony",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/03_私のSymphony_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私のSymphony - Watashi no Symphony",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/04_私のSymphony_-_Watashi_no_Symphony_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私のSymphony ～2022 Version～",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/05_私のSymphony_~2022_Version~_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私のSymphony ～2022 Ver.～",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/06_私のSymphony_~2022_Ver.~_Liella!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私のSymphony (Off Vocal)",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/07_私のSymphony_(Off_Vocal)_Liella!.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私のSymphony ～2023 Ver.～",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/08_私のSymphony_~2023_Ver.~_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私のSymphony (2023Ver.)",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/09_私のSymphony_(2023Ver.)_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "私のSymphony 〜2022Ver.〜",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/10_私のSymphony_〜2022Ver.〜_Liella!.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "私のSymphony ～2023Ver.～",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/11_私のSymphony_~2023Ver.~_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "私のSymphony - 2023Ver.",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/12_私のSymphony_-_2023Ver._Liella!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "私のSymphony ～2022Ver.～",
+      "artist": "Liella! (伊達さゆり, Liyuu, 岬なこ, ペイトン尚未, 青山なぎさ)",
+      "has_synced": true,
+      "path": "select/13_私のSymphony_~2022Ver.~_Liella!_(伊達さゆり,_Liyuu,_岬なこ,_ペイトン尚未,_青山なぎさ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私のSymphony",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_私のSymphony_Liella!.txt"
+    }
+  ]
+}
